@@ -3,7 +3,7 @@ Challenge for TouchBistro.
 
 ## Instructions
 
-Just build and run. Layout designed for iPhone size devices.
+Open the workspace, build, and run. Layout designed for iPhone size devices.
 
 ## Special Notes for Improvements
 
@@ -19,7 +19,13 @@ I'm not especially happy with the way I implemented this. Presently, it only tri
 
 I'd also rewrite the `didFinishEditing` protocol to make it more type safe. Presently, there are a handful of force unwraps which I believe are safe, but I'm still not especially happy with.
 
+### General Design
+
+The design is very, very plain. It's functional, but is definitely nowhere close to what one would like for a real menu application.
+
 ## External Libraries Used
+
+CocoaPods was used for package management.
 
 ### Toast-Swift
 
