@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "Breakfast",
+      "imageUrl": "https://i.imgur.com/IGtHAqA.png",
+      "items": [
+        {
+          "name": "Bacon and Eggs",
+          "imageUrl": "https://cdn.ruled.me/wp-content/uploads/2013/10/keto-bacon-and-eggs-featured.jpg",
+          "price": 7.99
+        },
+        {
+          "name": "Waffles",
+          "imageUrl": "https://www.seasonsandsuppers.ca/wp-content/uploads/2018/11/waffles-1B.jpg",
+          "price": 5.99
+        },
+        {
+          "name": "Fruit Cup",
+          "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2017/10/Fruit-Cup-with-Citrus-Sauce_exps17382_CX1995512B02_10_16b-2_RMS-1-696x696.jpg",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "imageUrl": "https://sweetpeasandsaffron.com/wp-content/uploads/2017/11/turkey-taco-lunch-bowls_Cheesy-Broccoli-Cheddar-Chicken-and-Rice-Bowls-Casserole-Meal-Prep.jpg",
+      "items": [
+        {
+          "name": "BLT Sandwich",
+          "imageUrl": "https://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_900x675/public/the-sl-blt.jpg?itok=IWy5_fFI",
+          "price": 6.99
+        },
+        {
+          "name": "Philly Cheesesteak",
+          "imageUrl": "https://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/recipes/ck/12/03/philly-cheesesteak-ck-x.jpg?itok=KysoGLqp",
+          "price": 9.99
+        },
+        {
+          "name": "Hot Dog",
+          "imageUrl": "https://postmediacanoe.files.wordpress.com/2018/11/gettyimages-822128748.jpg",
+          "price": 4.99
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "imageUrl": "https://www.wholefoodsmarket.com/sites/default/files/styles/mobile_585x390/public/media/2942.jpg?itok=XQPl-PFx",
+      "items": [
+        {
+          "name": "Surf n' Turf Platter",
+          "imageUrl": "https://paleoleap.com/pictures/j-paleo/surf-turf-dinner/surf-turf-dinner-main.jpg",
+          "price": 12.99
+        },
+        {
+          "name": "Classic Quiche",
+          "imageUrl": "https://media.eggs.ca/assets/RecipePhotos/_resampled/FillWyIxMjgwIiwiNzIwIl0/Classic-Quiche-Lorraine-CMS.jpg",
+          "price": 10.99
+        },
+        {
+          "name": "Warm Pizza Pocket",
+          "imageUrl": "https://www.healthfulpursuit.com/wp-content/uploads/Homemade-Pizza-Pops-1.jpg",
+          "price": 2.99
+        }
+      ]
+    }
+  ]
+}
